@@ -15,15 +15,3 @@
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/ayush-dhiman-569234190/
-[leetcode]: https://leetcode.com/ayushdhiman101/
-
-
-![](https://komarev.com/ghpvc/?username=ayushdhiman101)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/https://www.linkedin.com/in/ayush-dhiman-569234190/)
-  
-[![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=aj-spec&count_private=true&show_icons=true)](https://github.com/ayushdhiman101/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aj-spec&layout=compact)](https://github.com/ayushdhiman101/github-readme-stats)
-
-
-
