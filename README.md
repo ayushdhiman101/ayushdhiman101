@@ -7,6 +7,9 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ayushdhiman101 Spotify Playing" width="350" />](https://open.spotify.com/track/26OhjtaTamFocE08t83ml6?si=61474ae41df64cc3)
 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+
+
 ### Connect with me:
 
 [<img align="left" alt="ayushdhiman101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>][linkedin]
