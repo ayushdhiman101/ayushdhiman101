@@ -9,9 +9,10 @@
 
 ### Connect with me:
 
-<img align="left" alt="ayushdhiman101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/>
-<img align="left" alt="ayushdhiman101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>
+<a href="https://www.linkedin.com/in/ayush-dhiman-569234190/"><img align="left" alt="ayushdhiman101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/></a>
+<a href="https://www.instagram.com/ayush.dhiman_/"><img align="left" alt="ayushdhiman101 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/></a>
+<a href="https://leetcode.com/ayushdhiman101//"><img align="left" alt="ayushdhiman101 | Leetcode" width="22px" src="https://code.iconify.design/2/2.0.3/iconify.min.js
+" target="_blank"/></a>
 
 <br />
-
 
