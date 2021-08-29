@@ -7,7 +7,7 @@ Software Engineering student with a demonstrated history of working in the compu
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushdhiman101&theme=tokyonight&show_icons=true)
 
 
-![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhiman101&theme=blue-green)
+![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhiman101&theme=tokyonight&show_icons=true)
 
 
 
