@@ -7,6 +7,11 @@ Software Engineering student with a demonstrated history of working in the compu
 ![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushdhiman101&theme=tokyonight&show_icons=true)
 
 
+![My stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhiman101&theme=blue-green)
+
+
+
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ayush-dhiman-569234190/"><img align="left" alt="ayushdhiman101 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank"/></a>
