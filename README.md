@@ -33,5 +33,12 @@
 **📈 My Github Stats**
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdhiman101&theme=tokyonight&show_icons=true" alt="ayushdhiman" />
+      
+<p width="100%" align="center">
+          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushdhiman101&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="ayushdhiman" />
+          <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdhiman101&theme=tokyonight" alt="ayushdhiman" />
+</p>
 
-<p align="left" style="width=100"> <img src="https://github-readme-stats.vercel.app/api?username=ayushdhiman101&theme=tokyonight&show_icons=true" alt="ayushdhiman" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ayushdhiman101&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+   
+   
