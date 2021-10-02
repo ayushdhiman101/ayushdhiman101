@@ -39,6 +39,6 @@
           <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdhiman101&theme=tokyonight" alt="ayushdhiman" />
 </p>
 
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ayushdhiman101&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=false" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ayushdhiman101&bg_color=1a1b27&color=70a4fc&line=e34c26&point=329c92&area=true&hide_border=false" />
    
    
