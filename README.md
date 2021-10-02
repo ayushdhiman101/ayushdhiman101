@@ -8,7 +8,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ayushdhiman101.ayushdhiman101)
 
-  Hi, i'm Ayush Dhiman, a software engineering student with a demonstrated history of working in the computer software
+  Hi, i'm [Ayush Dhiman](https://ayushdhiman01.github.io/ayushdhiman/)
+, a software engineering student with a demonstrated history of working in the computer software
   industry. Offering a strong foundation in software engineering and programming principles across
   multiple platforms. Quickly learn and master new technologies; successful working in both team and
   self-directed settings.
