@@ -1,4 +1,4 @@
-   ### HEY THERE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+   ### HEY THERE 
 <a href="https://www.linkedin.com/in/ayush-dhiman-569234190/">
   <img align="left" alt="Ayush's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/61506157/135613705-4556b6d7-a643-477f-81f8-ab567e02e2e3.png" />
 </a>
